@@ -1,0 +1,21 @@
+p{
+    background-color: rgb(255, 30, 0);
+}
+h2{
+    background-color: blueviolet;
+}
+h1{
+    background-color: blueviolet;
+
+}
+.box{
+    border: 3px solid;
+    color: rgb(56, 53, 53);
+    padding: 15px;
+}
+h3{
+    background-color: blueviolet;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
